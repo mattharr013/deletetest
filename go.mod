@@ -1,3 +1,3 @@
-module github.com/mdev5000/deletetest
+module github.com/mattharr013/deletetest
 
 go 1.16
